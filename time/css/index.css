@@ -1,6 +1,6 @@
 /* 轮播图 */
 .carousel {
-	height: 440px;
+	height: 0;
 	background-color: #000;
 }
 .carousel .item {
